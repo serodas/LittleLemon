@@ -1,0 +1,14 @@
+version: '3.3'
+
+services:
+  db:
+    image: mysql:8.0.19
+    environment:
+      MYSQL_DATABASE: littlelemon
+      MYSQL_ROOT_PASSWORD: '1234'
+    ports:
+      - 3306:3306
+    volumes:
+      - db-data:/var/lib/mysql
+volumes:
+  db-data:
