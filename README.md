@@ -45,7 +45,7 @@ Course link: [Meta Back-end Developer Professional Certificate ](https://www.cou
   ```
 
 7. Create a superuser: 
-  ````
+  ```
     python manage.py createsuperuser
   ```
 
