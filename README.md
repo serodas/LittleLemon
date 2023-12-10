@@ -4,6 +4,12 @@ Final capstone project for Meta Back-end developer professional certification pr
 
 Course link: [Meta Back-end Developer Professional Certificate ](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 
+## Tech Stack
+* Django
+* Django REST Framework
+* Docker
+* MySQL
+
 ##  Installation
 
 1. Clone the repository `git clone https://github.com/serodas/LittleLemon.git`
