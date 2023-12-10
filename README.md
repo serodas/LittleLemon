@@ -14,19 +14,40 @@ Course link: [Meta Back-end Developer Professional Certificate ](https://www.cou
 
 ##  Installation
 
-1. Clone the repository ```git clone https://github.com/serodas/LittleLemon.git```
+1. Clone the repository: 
+  ```
+    git clone https://github.com/serodas/LittleLemon.git
+  ```
 
-2. Create a virtual environment ```pipenv shell```
+2. Create a virtual environment:
+  ```
+    pipenv shell
+  ```
 
-3. Install the requirements ```pipenv install```
+3. Install the requirements: 
+  ```
+    pipenv install
+  ```
 
-4. Run the migrations ```python manage.py migrate```
+4. Run the migrations: 
+  ```
+    python manage.py migrate
+  ```
 
-5. Run the server ```python manage.py runserver```
+5. Run the server: 
+  ```
+    python manage.py runserver
+  ```
 
-6. Run the tests ```python manage.py test```
+6. Run the tests: 
+  ```
+    python manage.py test
+  ```
 
-7. Create a superuser `python manage.py createsuperuser`
+7. Create a superuser: 
+  ````
+    python manage.py createsuperuser
+  ```
 
 #  API paths to test the application
 
